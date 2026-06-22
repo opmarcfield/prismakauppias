@@ -1,8 +1,10 @@
 name: Prisma Stock Monitor
 on:
   schedule:
-    - cron: '*/20 * * * *' # Automatically executes every 5 minutes
-  workflow_dispatch: 
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+  repository_dispatch:
+    types: [trigger-monitor]
 
 jobs:
   check-stock:
