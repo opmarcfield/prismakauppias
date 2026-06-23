@@ -32,7 +32,7 @@ jobs:
 
     # 🚀 RUN THE PYTHON MONITOR SCRIPT
     - name: Run Script
-      run: prisma_kauppias.py
+      run: python prisma_kauppias.py
 
     # 💾 SAVE UP-TO-DATE STATE FILE FOR THE NEXT RUN
     - name: Save Inventory State Cache
