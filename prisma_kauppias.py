@@ -8,7 +8,13 @@ from datetime import datetime
 API_URL = "https://storefront-api.prisma.fi/products/111354656/availability?category=elektroniikka%2Fgaming%2Fkerailykortit-ja-tuotteet"
 # TOPIC NIMI
 NTFY_TOPIC = "prisma-pokemon-7739"
+# DISCORD WEBHOOK URL (Luo tää sun Discord kanavan asetuksista -> Integrations -> Webhooks)
+DISCORD_WEBHOOK_URL = "https://discord.com/api/webhooks/YOUR_WEBHOOK_ID/YOUR_WEBHOOK_TOKEN"
 STATE_FILE = "last_state.json"  # GitHub Actions cache handles this file
+
+# VAIHDA TRUE / FALSE JOS HALUAT SAMMUTTAA/KÄYNNISTÄÄ ILMOITUKSIA
+ENABLE_NTFY = True
+ENABLE_DISCORD = False
 # =======================================================
 
 # KOIJATAAN ETTÄ OLLAAN IHMINEN :D 
@@ -43,6 +49,29 @@ def send_ntfy_alert(store_name, old_shelf, new_shelf, old_cc, new_cc):
             print(f"ntfy server returned an error: {response.status_code}")
     except Exception as e:
         print(f"Failed to send ntfy push notification: {e}")
+
+def send_discord_alert(store_name, old_shelf, new_shelf, old_cc, new_cc):
+    """Sends a stock alert message directly to a Discord channel via Webhook."""
+    url = f"{DISCORD_WEBHOOK_URL}"
+    
+    # Rakennetaan viesti nätisti markdownilla Discordia varten
+    message = (
+        f"🚨 **PRISMA VARASTOPÄIVITYS** 🚨\n\n"
+        f"🏪 **{store_name}**\n"
+        f"📦 **HYLLYSSÄ:** `{old_shelf}` ➡️ `{new_shelf}`\n"
+        f"🛍️ **NOUDETTAVISSA:** `{old_cc}` ➡️ `{new_cc}`"
+    )
+    
+    payload = {
+        "content": message
+    }
+    
+    try:
+        response = requests.post(url, json=payload, timeout=10)
+        if response.status_code not in [200, 204]:
+            print(f"Discord server returned an error: {response.status_code}")
+    except Exception as e:
+        print(f"Failed to send Discord webhook notification: {e}")
 
 def fetch_live_inventory():
     try:
@@ -123,13 +152,24 @@ def monitor_stock():
                     print(f"   ✅ New State -> Shelf: {current_details['shelf_qty']} | Pickup: {current_details['cc_qty']}")
                     
                     # 🚀 THIS IS WHERE THE FUNCTION TRIGGERS
-                    send_ntfy_alert(
-                        store_name=store_name,
-                        old_shelf=old_details['shelf_qty'],
-                        new_shelf=current_details['shelf_qty'],
-                        old_cc=old_details['cc_qty'],
-                        new_cc=current_details['cc_qty']
-                    )
+                    if ENABLE_NTFY:
+                        send_ntfy_alert(
+                            store_name=store_name,
+                            old_shelf=old_details['shelf_qty'],
+                            new_shelf=current_details['shelf_qty'],
+                            old_cc=old_details['cc_qty'],
+                            new_cc=current_details['cc_qty']
+                        )
+
+                    if ENABLE_DISCORD:
+                        send_discord_alert(
+                            store_name=store_name,
+                            old_shelf=old_details['shelf_qty'],
+                            new_shelf=current_details['shelf_qty'],
+                            old_cc=old_details['cc_qty'],
+                            new_cc=current_details['cc_qty']
+                        )
+                    
                     changes_detected = True
 
         if not changes_detected:
