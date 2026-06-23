@@ -1,0 +1,2827 @@
+{
+    "📦 ONLINE WEBSTORE": {
+        "shelf_qty": -52,
+        "cc_qty": 0,
+        "is_online": true
+    },
+    "S-Market Hyrynsalmi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Pello": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Puolanka": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Toijala ": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Alavieska": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Anjala": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Anttola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Artjärvi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Aura": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Taalintehdas": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Elimäki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Eno": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Enonkoski": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Alepa Lintuvaara": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Emotion Ainoa": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Emotion Sello": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Iso Omena Espoo": {
+        "shelf_qty": -5,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Lippulaiva Espoo": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Olari": {
+        "shelf_qty": 2,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Sello": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Eura": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Eurajoki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Evijärvi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Forssa": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Forssa": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Forssa": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Haapajärvi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Haapavesi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Hailuoto": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Halikko": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Hämeenkoski": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Emotion Goodman": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Hämeenlinna": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Goodman Hämeenlinna": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Harvialantie": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Idänpää": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Jukola Hämeenlinna": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Lammi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Käikälä": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Poltinaho Hämeenlinna": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Abc Kippari Hamina": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Emotion Hamina": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Hamina": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Alakaupunki Hamina": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Hammaslahti": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Harjavalta": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Hartola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Hauho": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Haukipudas": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Haukivuori": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Heinävesi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Heinola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Heinoska": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Heinola Kk": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Jyränkö": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Emotion Hakaniemi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Herttoniemi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Itäkeskus": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Kaari Kannelmäki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Malmi Helsinki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Tripla Pasila": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Viikki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sokos Helsinki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sokos Kaari": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Himanka": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Hirvensalmi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Hollola": {
+        "shelf_qty": 1,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Hollola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Honkajoki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Huittinen": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Humppila": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Hurissalo": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Husula": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Emotion Hyvinkää": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Hyvinkää": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Ii": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Iisalmi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Iittala": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Ilomantsi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Imatra": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Imatrankoski": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Rajapatsas Imatra": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Vuoksenniska": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Inari": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Inkeroinen": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Isokyrö": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Ivalo": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Jaala": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Jääli": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Jäppilä": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Järvelä": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Järvenpää": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Jeppo": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Joensuu": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Jukolanportti Joensuu": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Karsikko": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Kauppakatu Joensuu": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Niinivaara": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Noljakka": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Papinkatu Joensuu": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Penttilänranta Joensuu": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Rantakatu Joensuu": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Rantakylä Joensuu": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Repokallio Joensuu": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Siilainen": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Suvantokatu Joensuu": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Utra Joensuu": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Vehkalahti Joensuu": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Kanervala Joensuu": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Karhunmäki Joensuu": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sokos Joensuu": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Jokioinen": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Päivärinne": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Joroinen": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Joutseno": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Juuka": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Korkeakoski": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Juva": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Keljo Jyväskylä": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Palokka Jyväskylä": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Seppälä Jyväskylä": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sokos Jyväskylä": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Kaarina": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Kaipiainen": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Kajaani": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sokos Kajaani": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "ABC Hiekkasärkät Kalajoki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Kalajoki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Kälviä": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Kämmenniemi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Kangasala": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Kankaanpää": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Opistonkatu": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Kannus": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Karjalohja": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Karkkila": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Kärsämäki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Karttula": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Karvia": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Abc Kausala Iitti": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Kausala": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Kaustinen": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Kauttua": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Käylä": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Kemi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Kemi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Syväkangas": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Uitto Kemijärvi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Zeppelin": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Kempele": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Zeniitti": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Linnakangas": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Kerava": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Kerimäki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Kesälahti": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Kestilä": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Kiihtelysvaara": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Kiikka": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Kemiö": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Kinnula": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Kirkkonummi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Kitee": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Kittilä": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Kiuruvesi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Klamila": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Klaukkala": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Kvevlax": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Kokemäki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "ABC Kokkola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Kokkola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Rauta Kokkola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Kallentori Kokkola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Kolari": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Koli": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Kållby": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Kontiolahti": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Abc Koria Kouvola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Korsnäs": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Koski Tl": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Abc Amiraali Kotka": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Kotka": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Karhula": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Karhuvuori": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Kotkansaari": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Pasaati Kotka": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Hirssaari": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sokos Pasaati Kotka": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Abc Anjalankoski Kouvola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Kouvola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Eskolanmäki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Koria": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Kouvola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Kuusaankeskus": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Kuusankoski": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Lehtomäki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Myllykoski": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Tornionmäki Kouvola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Kauppalankatu Kouvola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sokos Kouvola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Köyliö": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Kronoby": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Kuhmo": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Kukkila": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Kuopio": {
+        "shelf_qty": 1,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Rauta Kuopio": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Juankoski": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sokos Kuopio": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Kuru": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Kustavi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Kuukanniemi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Kuusamo": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Rauta Kuusamo": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Kuusamo": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Kuusjoki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Kyröntie Kyrö": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Holma Lahti": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Laune": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Syke Lahti": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Ahtiala": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Ankkuri Lahti": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Hennala": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Jalkaranta": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Kiveriö": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Mascot Lahti": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Metsäkangas": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Mukkula": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Renkomäki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Tonttila": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Villähde Nastola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Liipola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Metsäpelto": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Okeroinen Lahti": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sokos Lahti": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Laihia": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Laitila": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Laitila": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Lappajärvi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Lappee Lappeenranta": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Lappeenranta": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Kourula": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Lauritsala": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Pallo Lappeenranta": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Sammonlahti": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sokos Lappeenranta": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Lappi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Larsmo": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Lavia": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Läyliäinen": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Lehmo": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Ideapark Lempäälä": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Lemu": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Leppävirta": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Lestijärvi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Levi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Lieksa": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Lieto": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Liminka": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Liperi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Lohja": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Lempola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sokos Lohja": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Lohtaja": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Loimaa": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Loppi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Lumijoki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Jurvala Luumäki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Luvia": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Maaninka": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Köpings Malax": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Mäntyharju": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Marttila": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Maxmo": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Merijärvi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Merikarvia": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Miehikkälä": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Mikkeli": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Mikkeli": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Peitsari": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Rantakylä": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Urpola Mikkeli": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Laajalampi Mikkeli": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Mikkeli": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Nuijamies": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Savisilta": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Tusku": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sokos Mikkeli": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Muhos": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Muonio": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Sepänkylä Mustasaari": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Muurola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Mynämäki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Myrskylä": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Tuulensuunkatu Naantali": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Naarajärvi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Nastola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Nastola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Nedervetil": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Neuvoton": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Nilsiä": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Nivala": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Nokia": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Noormarkku": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Emotion Nummela": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Nummela": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Nousiainen": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Kauppatori Nurmes": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Porokylä Nurmes": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Oitti": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "ABC Oravainen": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Orimattila": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Otalampi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Otava": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Oulainen": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Oulainen": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Limingantulli Oulu": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Linnanmaa Oulu": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Raksila Oulu": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Hiukkavaara": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Kastelli": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Kello": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Ritaharju": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Tuira Oulu": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Alppila Oulu": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Etelätulli Oulu": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Kaijonharju Oulu": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Talvikangas Oulu": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Toppila Oulu": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sokos Oulu": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Outokumpu": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Padasjoki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Paimio": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Paltamo": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Parainen": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Parikkala": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Parola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Pännäinen": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Perho": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Perniö": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Pertunmaa": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Pieksämäki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Kontiopuisto": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Pielavesi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "ABC Pietarsaari": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Pietarsaari": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Pietarsaari": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Piikkiö": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Piispanristi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Pilkanmaa": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Pirkkala": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Poitsila": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Polvijärvi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Pomarkku": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Pori Länsi-Pori": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Pori Mikkola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Herralahti": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Lukkarinsanta": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Tikkula": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Paratiisinmäki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Reposaari": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Tori": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Vapaudenkatu Pori": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sokos Satakunta Pori": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Pornainen": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sokos Porvoo": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Ahola Posio": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Pudasjärvi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Pukkila": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Pulkkila": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Punkaharju": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Puumala": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Pyhäsalmi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Pyhäjoki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Pyhältö": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Pyhäranta": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Abc Majakka Pyhtää": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Raahe": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Raahe Mettalanmäki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Rääkkylä": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Replot": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Abc Raisio": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Mylly": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Raisiontori": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Rantasalmi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Rantsila": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Ranua": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "ABC S-Market Kortela Rauma": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Rauma": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Äyhö": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Kehätie": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Kalliokatu Rauma": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Lahdenkatu Rauma": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Monnankatu Rauma": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Syväraumankatu Rauma": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Rautalampi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Rautavaara": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Räyrinki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Reijola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Reisjärvi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Renko": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Pöytyä": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Riihimäki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Hirsimäki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Karavaani": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Riihimäki Keskusta": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Riistavesi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Ristiina": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Ristijärvi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Rovaniemi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Saarenkylä": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Talvitie Rovaniemi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Korkalovaara Rovaniemi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Rantavitikka Rovaniemi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sokos Rovaniemi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Ruka": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Ruokolahti": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Rusko": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Ruukki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Rymättylä": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Ryttylä": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Saari": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Taipalsaari": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Säkylä": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Erätuli Salla": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Plaza Salo": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sokos Salo": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "ABC Kiikoinen": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Sastamala": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Saukkola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Sauvo": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Savitaipale": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Savonlinna": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Laitaatsilta": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Mertala Savonlinna": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Savonlinna": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sokos Savonlinna": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Savonranta": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Korvatunturi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Hyllykallio Seinäjoki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Sievi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Siilinjärvi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Pyhtää": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Simo": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Simpele": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Sippola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Sodankylä": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Somero": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Sonkajärvi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Sotkamo": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Sulkava": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Sundom": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Suomenniemi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Suomusjärvi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Suomussalmi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Suonenjoki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Sysmä": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Taavetti": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Joki-Jussi Taivalkoski": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Taivassalo": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Tammela": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Tammisaari": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Hämeenkatu Tampere": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Kaleva Tampere": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Koivistonkylä Tampere": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Lielahti Tampere": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Linnainmaa Tampere": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Vuores": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sokos Tampere": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Teerijärvi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Tervajoki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Tervakoski": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Tervo": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Tervola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Tohmajärvi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Toholampi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Tornio": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Torikatu Tornio": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Abc Tuohikotti Kouvola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Turenki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Emotion Skanssi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Itäharju Turku": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Länsikeskus Turku": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Tampereentie Turku": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Auranlaakso Turku": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Halinen": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Hansa Herkku": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Majakkaranta Turku": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Manhattan": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Moisio Turku": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Pansio": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Hämeenkatu Turku": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Käsityöläiskatu Turku": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Kaskenkatu Turku": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Kompassi Turku": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Kupittaanpuisto Turku": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Laivurinkatu Turku": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Lauste": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Martti Turku": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Petrelius Turku": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Puutori Turku": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Verkahovi Turku": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sokos Wiklund Turku": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Tuulos": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Tuusniemi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Uimaharju": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Ulvila": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Utajärvi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Abc Utti Kouvola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Uusikaarlepyy": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Uusikaarlepyy": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Vakka-Suomenkatu Uusikaupunki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Vääksy": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Vaala": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "ABC Kiitokaari Vaasa": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "ABC Kivihaka Vaasa": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Kotiranta Vaasa": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Liisanlehto Vaasa": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Gerby Vaasa": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Palosaari": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Ristinummi Vaasa": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Vaasanpuistikko": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Korsholmanpuistikko Vaasa": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Rewell": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sokos Vaasa": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Vähäkyrö": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Valkeakoski": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Abc Valkeala Kouvola": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Jokela Valkeala": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Valkeala": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Valtimo": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Vanha-Ulvila": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Emotion Jumbo": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Jumbo": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Myyrmanni Vantaa": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Tikkurila": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Varkaus": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Varpaisjärvi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Vehmaa": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Vehmersalmi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Vesanto": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Veteli": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Vieremä": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Vierumäki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Vihanti": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Vihti": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Viinijärvi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Ersta": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Virojoki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Virtasalmi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Voikkaa": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-market Vöyri": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Vuokatti": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Vuolijoki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Ylämaa": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Ylämylly": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Yläne": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Yli-Ii": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Ylikiiminki": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "S-Market Ylitornio": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "ABC Joutsentie Ylivieska": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Ylivieska": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Kaisaniemi Ylivieska": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Valtakatu Ylivieska": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Prisma Ylöjärvi": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    },
+    "Sale Ypäjä": {
+        "shelf_qty": 0,
+        "cc_qty": 0,
+        "is_online": false
+    }
+}
