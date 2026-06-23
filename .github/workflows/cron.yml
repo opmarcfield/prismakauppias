@@ -1,25 +1,42 @@
 name: Prisma Stock Monitor
+
 on:
-  schedule:
-    - cron: '*/5 * * * *'
-  workflow_dispatch:
   repository_dispatch:
-    types: [trigger-monitor]
+    types: [trigger-monitor] # Allows execution via your external cron webhook URL
+  workflow_dispatch:   # Allows manual execution from the GitHub UI
 
 jobs:
-  check-stock:
+  monitor:
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout repository code
-        uses: actions/checkout@v4
+    - name: Checkout Repository
+      uses: actions/checkout@v4
 
-      - name: Set up Python Environment
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-mode: '3.11'
 
-      - name: Install dependencies
-        run: pip install requests
+    - name: Install Dependencies
+      run: pip install requests
 
-      - name: Run Monitor Script
-        run: python prisma_kauppias.py
+    # 💾 RESTORE PREVIOUS STATE FILE
+    - name: Restore Inventory State Cache
+      uses: actions/cache/restore@v4
+      with:
+        path: last_state.json
+        key: prisma-stock-${{ github.run_id }}
+        restore-keys: |
+          prisma-stock-
+
+    # 🚀 RUN THE PYTHON MONITOR SCRIPT
+    - name: Run Script
+      run: prisma_kauppias.py
+
+    # 💾 SAVE UP-TO-DATE STATE FILE FOR THE NEXT RUN
+    - name: Save Inventory State Cache
+      uses: actions/cache/save@v4
+      with:
+        path: last_state.json
+        key: prisma-stock-${{ github.run_id }}
