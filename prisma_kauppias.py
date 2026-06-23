@@ -14,29 +14,28 @@ HEADERS = {
     "Referer": "https://www.prisma.fi/"
 }
 
-def send_ntfy_alert(store_name, shelf_qty, cc_qty):
+def send_ntfy_alert(store_name, old_shelf, new_shelf, old_cc, new_cc):
     """Sends a push notification directly via ntfy.sh using JSON payload."""
     url = f"https://ntfy.sh/{NTFY_TOPIC}"
     
     message = (
-        f"Location: {store_name}\n"
-        f"Available on Shelf: {shelf_qty}\n"
-        f"Click and Collect: {cc_qty}"
+        f" {store_name}\n"
+        f"HYLLYSSÄ: {old_shelf} -> {new_shelf}\n"
+        f"NOUTO: {old_cc} -> {new_cc}"
     )
     
-    payload = {
-        "title": "PRISMA ITEM IN STOCK",
-        "message": message,
-        "priority": 4, 
-        "tags": ["warning", "shopping_bags"]
+    headers = {
+        "Title": "PRISMA STOCK UPDATE",
+        "Priority": "high",          # Makes your phone buzz/sound even in background
+        "Tags": "warning,shopping_bags" # Adds emojis to the notification bar
     }
     
     try:
-        response = requests.post(url, json=payload, timeout=10)
+        response = requests.post(url, data=message.encode('utf-8'), headers=headers, timeout=10)
         if response.status_code != 200:
-            print(f"Warning: ntfy server returned an error: {response.status_code}")
+            print(f"ntfy server returned an error: {response.status_code}")
     except Exception as e:
-        print(f"Warning: Failed to send ntfy push notification: {e}")
+        print(f"Failed to send ntfy push notification: {e}")
 
 def fetch_live_inventory():
     try:
