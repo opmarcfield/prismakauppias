@@ -14,18 +14,19 @@ HEADERS = {
     "Referer": "https://www.prisma.fi/"
 }
 
-def send_ntfy_alert(store_name, old_shelf, new_shelf, old_cc, new_cc):
-    """Sends a push notification directly via ntfy.sh using JSON payload."""
+def send_ntfy_alert(store_name, shelf_qty, cc_qty):
+    """Sends a push notification directly via ntfy.sh with live stock quantities."""
     url = f"https://ntfy.sh/{NTFY_TOPIC}"
     
+    # Cleaned message formatting designed for a single snapshot alert
     message = (
-        f" {store_name}\n"
-        f"HYLLYSSÄ: {old_shelf} -> {new_shelf}\n"
-        f"NOUTO: {old_cc} -> {new_cc}"
+        f" 🏪 {store_name}\n"
+        f" 📦 Shelf Stock: {shelf_qty}\n"
+        f" 🛍️ Click & Collect: {cc_qty}"
     )
     
     headers = {
-        "Title": "PRISMA STOCK UPDATE",
+        "Title": "PRISMA STOCK DETECTED",
         "Priority": "high",          # Makes your phone buzz/sound even in background
         "Tags": "warning,shopping_bags" # Adds emojis to the notification bar
     }
@@ -54,8 +55,8 @@ def monitor_stock():
         # 1. Process Online Central Warehouse Stock
         ecom_quantity = int(data.get("ecomQuantity", 0))
         if ecom_quantity > 0:
-            print(f"Stock found on Central Webstore: {ecom_quantity}")
-            send_ntfy_alert("ONLINE WEBSTORE", ecom_quantity, 0)
+            print(f"[{timestamp}] Stock found on Central Webstore: {ecom_quantity}")
+            send_ntfy_alert("ONLINE WEBSTORE", shelf_qty=ecom_quantity, cc_qty=0)
         
         # 2. Process physical brick-and-mortar stores
         store_list = data.get("storeQuantities", [])
@@ -69,7 +70,7 @@ def monitor_stock():
             # If there is active inventory in this specific location, alert immediately
             if shelf_qty > 0 or cc_qty > 0:
                 print(f"[{timestamp}] Stock found at {name}! Shelf: {shelf_qty} | Pickup: {cc_qty}")
-                send_ntfy_alert(name, shelf_qty, cc_qty)
+                send_ntfy_alert(store_name=name, shelf_qty=shelf_qty, cc_qty=cc_qty)
                 stock_found_locally = True
                 
         if not stock_found_locally and ecom_quantity == 0:
