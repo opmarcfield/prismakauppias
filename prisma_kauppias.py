@@ -2,10 +2,13 @@ import requests
 from datetime import datetime
 
 # ==================== CONFIGURATION ====================
+# TÄN VOI VAIHTAA HALUAMAANSA TUOTTEESEEN, PITÄÄ KUITENKI LÖYTÄÄ SEN TUOTTEEN API LINKKI, DEVELOPER CONSOLE AUKI, KLIKKAA TUOTETTA, KATO NETWORK TÄBILTÄ MIHIN KUTSU LÄHTEE
 API_URL = "https://storefront-api.prisma.fi/products/111354656/availability?category=elektroniikka%2Fgaming%2Fkerailykortit-ja-tuotteet"
+# TOPIC NIMI
 NTFY_TOPIC = "prisma-pokemon-7739"
 # =======================================================
 
+# KOIJATAAN ETTÄ OLLAAN IHMINEN :D 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36",
     "Accept": "application/json, text/plain, */*",
@@ -21,14 +24,14 @@ def send_ntfy_alert(store_name, shelf_qty, cc_qty):
     # Cleaned message formatting designed for a single snapshot alert
     message = (
         f" 🏪 {store_name}\n"
-        f" 📦 Shelf Stock: {shelf_qty}\n"
-        f" 🛍️ Click & Collect: {cc_qty}"
+        f" 📦 HYLLYSSÄ: {shelf_qty}\n"
+        f" 🛍️ NOUDETTAVISSA: {cc_qty}"
     )
     
     headers = {
         "Title": "PRISMA STOCK DETECTED",
-        "Priority": "high",          # Makes your phone buzz/sound even in background
-        "Tags": "warning" # Adds emojis to the notification bar
+        "Priority": "high",          # Emt tekeekö jotai mut pitäis tulla puhelimeen piip
+        "Tags": "warning" # Tästä tulee emoji varotuskolmio
     }
     
     try:
