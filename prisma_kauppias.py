@@ -28,7 +28,7 @@ def send_ntfy_alert(store_name, shelf_qty, cc_qty):
     headers = {
         "Title": "PRISMA STOCK DETECTED",
         "Priority": "high",          # Makes your phone buzz/sound even in background
-        "Tags": "warning,shopping_bags" # Adds emojis to the notification bar
+        "Tags": "warning" # Adds emojis to the notification bar
     }
     
     try:
