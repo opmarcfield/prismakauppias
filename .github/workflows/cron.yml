@@ -1,4 +1,4 @@
-name: Prisma Stock Monitor
+name: Stock Monitors
 
 on:
   repository_dispatch:
@@ -16,27 +16,35 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
-        python-mode: '3.11'
+        python-version: '3.11'
 
     - name: Install Dependencies
-      run: pip install requests
+      run: pip install requests beautifulsoup4
 
-    # 💾 RESTORE PREVIOUS STATE FILE
+    # 💾 RESTORE PREVIOUS STATE FILES
     - name: Restore Inventory State Cache
       uses: actions/cache/restore@v4
       with:
-        path: last_state.json
-        key: prisma-stock-${{ github.run_id }}
+        path: |
+          last_state.json
+          muovitukku_state.json
+        key: store-monitors-${{ github.run_id }}
         restore-keys: |
-          prisma-stock-
+          store-monitors-
 
-    # 🚀 RUN THE PYTHON MONITOR SCRIPT
-    - name: Run Script
+    # 🚀 RUN THE PRISMA MONITOR SCRIPT
+    - name: Run Prisma Script
       run: python prisma_kauppias.py
 
-    # 💾 SAVE UP-TO-DATE STATE FILE FOR THE NEXT RUN
+    # 🚀 RUN THE MUOVITUKKU MONITOR SCRIPT
+    - name: Run Muovitukku Script
+      run: python muovitukkukauppias.py
+
+    # 💾 SAVE UP-TO-DATE STATE FILES FOR THE NEXT RUN
     - name: Save Inventory State Cache
       uses: actions/cache/save@v4
       with:
-        path: last_state.json
-        key: prisma-stock-${{ github.run_id }}
+        path: |
+          last_state.json
+          muovitukku_state.json
+        key: store-monitors-${{ github.run_id }}
